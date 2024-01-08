@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: remote-Group
+  m_EditorClassIdentifier: 
+  m_GroupName: remote-Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 38108bbdcb59b42e0ad4a411f838d601
+  m_SerializeEntries:
+  - m_GUID: f6ff2b155b61d4240826011b458a3ec6
+    m_Address: KKU
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f2c7236909954ce1be394d476703358
+    m_Address: HONAU
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57ef432823a994fce9bbf516739bbb57
+    m_Address: CAU
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbe8f45c3200243999d4feee98ae55eb
+    m_Address: SMOONU
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 41f67860fddef4fcf85c830b6f178295
+    m_Address: SeminarS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78c21485b3cd041448d1e5be4c1c54e5
+    m_Address: SeminarM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c01130f06e8e4477d8e7d6489c285ecd
+    m_Address: SeminarL
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ffe0f072525b4af7a147fc4edffdfa0
+    m_Address: Lounge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 049b94cdb94444ccf8085738fd1b02ee
+    m_Address: MeshMatContainer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49db533c7e95744b58501e856bf3a52e
+    m_Address: English (en)
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: 6df3534754e9048aca1190f6ee0669cb
+    m_Address: Korean (ko)
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: 004030b62e92243979f5f6c64394e93a
+    m_Address: Assets/Localiztion/ToryMetaTable Shared Data.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23a223ceab93b437d85aa6acf56ee38d
+    m_Address: Assets/Localiztion/ToryMetaTable_Asset Shared Data.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b04d8a331b6147f795a0e634aa36138
+    m_Address: ToryMetaTable_ko
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 52348d93b56c149ee971fc8aa90980c6
+    m_Address: ToryMetaTable_en
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: c816750ec400e426e9e16588dc618749
+    m_Address: ToryMetaTable_Asset_en
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: 4ead923f1db934465ac7bd1a05829d33
+    m_Address: ToryMetaTable_Asset_ko
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-ko
+    - Preload
+  - m_GUID: 89502023a03c14a5caceb5f058c396de
+    m_Address: RoomCreate_EN_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 25ce4bdddc8814813acd2d9a32186404
+    m_Address: Entrance_EN
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 3a5396f0e48f64b9d9b081ecd48c31c4
+    m_Address: lobby_Enter_EN
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: d34ecf6d6e20c40a889e9f69e3777ac3
+    m_Address: lobby_Exit_EN
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 86ee60c2eebae4a44ba1e901a406d97a
+    m_Address: RoomCreate_KO_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 5d354513e957a4613be69979e2fbb9e7
+    m_Address: Entrance_KO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: c010091db553741ef968c35bde393e2a
+    m_Address: lobby_Enter_KO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: dc002fa2778084fa18efc565b81b4ad4
+    m_Address: lobby_Exit_KO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-ko
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6ec8817151122481dba3d480abd9fd23, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e8d9976621ff94a1a8d824d4d8730040, type: 2}
+    - {fileID: 11400000, guid: 9ed951e929cc14e2082d17a09259915a, type: 2}
